@@ -1,0 +1,1 @@
+{"shouldIncludeBuilds":false,"shouldNameRootLevelFolderWithZipName":true,"foldersToExclude":[".git",".vs",".vscode","Build","Builds","Library","Logs","obj","Obj","Temp","UserSettings"],"topLevelExtensionsToExclude":[".gitignore",".sln",".csproj",".zip"]}
